@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">NCHS</string>
+    <string name="call_status">Call Status</string>
+    <string name="service_charges">Service Charges</string>
+    <string name="hint_service_charges">Service Charges</string>
+    <string name="tadafa">Travelling Allowances</string>
+    <string name="hint_tadafa">Travelling Allowances</string>
+    <string name="pay_mode">Payment Mode</string>
+    <string name="hint_pay_mode">Payment Mode</string>
+    <string name="receipt_no">Receipt No</string>
+    <string name="hint_receipt_no">Receipt No</string>
+    <string name="hint_cust_name">Customer Name</string>
+    <string name="hint_crn">CRN</string>
+    <string name="hint_amc_name">AMC Name</string>
+    <string name="hint_cust_mob_no">Mobile Number</string>
+    <string name="hint_cust_add">Customer address</string>
+    <string name="hint_count_calls_label">Calls</string>
+    <string name="hint_count_amount_collected_label">RS</string>
+    <string name="hint_count_new_calls_label">New</string>
+    <string name="hint_count_pending_calls_label">Pending</string>
+    <string name="hint_date">date</string>
+    <string name="status_no">NO</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
